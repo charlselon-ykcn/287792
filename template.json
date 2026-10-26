@@ -1,0 +1,122 @@
+{
+  "format": "motiongit.discovery/1",
+  "repositoryId": "287792",
+  "templateId": 869,
+  "owner": "oubaba95128",
+  "slug": "volume-price-kline-charts",
+  "website": "https://motiongit.com/@oubaba95128/volume-price-kline-charts",
+  "version": "1.0.0",
+  "technical": {
+    "en": [
+      "Declared runtime profile: html-canvas/1.",
+      "Editable inputs are mapped through the template parameter schema and preset to its existing animation project.",
+      "The declared timeline has a fixed duration; new content fits its existing scene order and timing."
+    ],
+    "zh": [
+      "声明的运行配置：html-canvas/1。",
+      "通过模板参数和预设，将本期文字、数据或素材映射到已有动画工程。",
+      "已声明时间轴为固定时长，本期内容按现有场景顺序和节奏适配。"
+    ]
+  },
+  "checkedAt": "2026-10-16",
+  "availability": "download-available",
+  "title": {
+    "en": "Price & Volume · Candlestick and Intraday Charts",
+    "zh": "量价图表：K线突破与分时动画"
+  },
+  "summary": {
+    "en": "A standalone chart animation component for financial education, with two daily candlestick sequences and one intraday sequence.",
+    "zh": "量价教学图表独立组件，包含两组日K与一组分时动画。"
+  },
+  "subtitle": {
+    "en": "Price & Volume · Candlestick and Intraday Charts",
+    "zh": "量价图表：K线突破与分时动画"
+  },
+  "category": {
+    "en": "explainer",
+    "zh": "explainer"
+  },
+  "ratio": "1:1",
+  "width": 1080,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 49.2,
+  "demo": {
+    "en": "https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a8.mp4",
+    "zh": "https://motiongit.com/@oubaba95128/volume-price-kline-charts?lang=zh",
+    "poster": "https://motiongit.com/media/covers/869/1.0.0-zh-01708b4a2214.jpg"
+  },
+  "materials": [
+    {
+      "en": "Title1: text, up to 12 characters.",
+      "zh": "Title1：文字，不超过 12 个字符。",
+      "required": false
+    },
+    {
+      "en": "Title2: text, up to 12 characters.",
+      "zh": "Title2：文字，不超过 12 个字符。",
+      "required": false
+    },
+    {
+      "en": "Title3: text, up to 12 characters.",
+      "zh": "Title3：文字，不超过 12 个字符。",
+      "required": false
+    },
+    {
+      "en": "Upcolor: text.",
+      "zh": "Upcolor：文字。",
+      "required": false
+    },
+    {
+      "en": "Downcolor: text.",
+      "zh": "Downcolor：文字。",
+      "required": false
+    },
+    {
+      "en": "Accentcolor: text.",
+      "zh": "Accentcolor：文字。",
+      "required": false
+    },
+    {
+      "en": "Backgroundcolor: text.",
+      "zh": "Backgroundcolor：文字。",
+      "required": false
+    }
+  ],
+  "dependencies": [
+    {
+      "en": "Declared runtime profile: html-canvas/1. Check the downloaded package for exact tools and setup steps.",
+      "zh": "声明的运行配置：html-canvas/1。具体工具与版本以下载包为准。"
+    },
+    {
+      "en": "Use the package dependency lock and setup/check instructions. Check existing tools first, install only missing requirements and verify a preview.",
+      "zh": "按下载包的依赖锁和 setup/check 说明检查已有工具，只补齐缺项，并验证预览。"
+    }
+  ],
+  "goodFor": {
+    "en": [
+      "A standalone chart animation component for financial education, with two daily candlestick sequences and one intraday sequence."
+    ],
+    "zh": [
+      "量价关系教学",
+      "图表插入镜头"
+    ]
+  },
+  "boundaries": {
+    "en": [
+      "The documented output is 1080 × 1080, 30 fps. The public demo is 49.2 seconds.",
+      "Use the actual package parameter bounds; extra materials do not automatically create extra scenes."
+    ],
+    "zh": [
+      "已声明输出为 1080 × 1080，30 fps；公开样片 49.2 秒。",
+      "按实际包的参数边界制作；增加素材不会自动增加场景。"
+    ]
+  },
+  "capabilities": [
+    {
+      "en": "Optional services require a live catalog, template slot and account check before they can be confirmed.",
+      "zh": "配套服务需核对官网实时能力、模板槽位和账号权限后才能确认。",
+      "status": "check-live"
+    }
+  ]
+}
