@@ -6,7 +6,9 @@ A standalone chart animation component for financial education, with two daily c
 
 **1:1 · 1080 × 1080 · 30 fps · v1.0.0** · [@oubaba95128](https://motiongit.com/@oubaba95128) · [简体中文](README.zh-CN.md)
 
-**[Template details, full .motion & demo](https://motiongit.com/@oubaba95128/volume-price-kline-charts)**
+Motion templates now support asset APIs for background music, stickers, images and video, with free options. Upgraded templates remain **100% free and open source**. Download the upgrade from the official MotionGit page below. MotionGit links API access to individual accounts to prevent abuse from bulk requests. See MotionGit for the scope of free API usage.
+
+**[Download .motion from MotionGit](https://motiongit.com/@oubaba95128/volume-price-kline-charts)**
 https://motiongit.com/@oubaba95128/volume-price-kline-charts
 
 Download available; current terms are listed with the package.

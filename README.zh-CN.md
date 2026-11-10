@@ -6,7 +6,9 @@
 
 **1:1 · 1080 × 1080 · 30 fps · v1.0.0** · [@oubaba95128](https://motiongit.com/@oubaba95128) · [English](README.md)
 
-**[模板详情、完整 .motion 与 Demo](https://motiongit.com/@oubaba95128/volume-price-kline-charts)**
+Motion 模板现已接入背景音乐、贴纸、图片和视频等素材接口，并提供免费背景音乐及免费素材检索。升级版模板仍然 **100% 免费开源**。请从下方 MotionGit 官网下载升级版，官网按账号提供接口访问，防止批量请求滥用。素材接口的免费范围以官网说明为准。
+
+**[官网下载 .motion](https://motiongit.com/@oubaba95128/volume-price-kline-charts)**
 https://motiongit.com/@oubaba95128/volume-price-kline-charts
 
 下载已开放，当前许可见模板页面与下载包。
